@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lapXm –group-directories-first
+ls -lapXm --group-directories-first
