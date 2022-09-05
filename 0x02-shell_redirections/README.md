@@ -1,0 +1,1 @@
+Folder to house Shell redirections (learnings)
